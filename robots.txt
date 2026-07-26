@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diegobrito8978-droid.github.io/helicoil-medellin/sitemap.xml
